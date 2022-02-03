@@ -6,7 +6,7 @@
   <groupId>com.mycompany.com</groupId>
   <artifactId>my-app</artifactId>
   <packaging>pom</packaging>
-  <version>1.0.1-Snapshot</version>
+  <version>2.0-Snapshot</version>
   <name>my-app</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://44.197.189.94:8081/#browse/browse:demo</url>
