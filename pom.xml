@@ -5,7 +5,7 @@
 
   <groupId>com.mycompany.com</groupId>
   <artifactId>my-app</artifactId>
-  <packaging>pom</packaging>
+  <packaging>war</packaging>
   <version>1.0-Release</version>
   <name>my-app</name>
   <description>Sample Maven project with a working, deployable site.</description>
