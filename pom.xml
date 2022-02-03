@@ -9,7 +9,7 @@
   <version>1.0-Release</version>
   <name>my-app</name>
   <description>Sample Maven project with a working, deployable site.</description>
-  <url>http://44.197.189.94:8081/repository/sample-java-app</url>
+  <url>http://44.197.189.94:8081/repository/demo</url>
 
   <properties>
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
@@ -31,12 +31,12 @@
     <snapshotRepository>
          <id>deployment</id>
       	<name>my snapshot repository</name>
-      	<url>http://44.197.189.94:8081/repository/sample-java-app/</url>
+      	<url>http://44.197.189.94:8081/repository/demo/</url>
     </snapshotRepository>
     <repository>
       	<id>deployment</id>
       	<name>my Release repository</name>
-      	<url>http://44.197.189.94:8081/repository/sample-java-app/</url>
+      	<url>http://44.197.189.94:8081/repository/demo/</url>
     </repository>
   </distributionManagement>
 
